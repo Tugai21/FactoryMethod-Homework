@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|d:\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\computercompany\\computercompany\\products\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|solutionrelative:computercompany\\products\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|d:\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\computercompany\\computercompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|solutionrelative:computercompany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|d:\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\computercompany\\computercompany\\creators\\managercreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|solutionrelative:computercompany\\creators\\managercreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|d:\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\computercompany\\computercompany\\creators\\developercreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|solutionrelative:computercompany\\creators\\developercreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|d:\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\computercompany\\computercompany\\creators\\engineercreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|solutionrelative:computercompany\\creators\\engineercreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|d:\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\computercompany\\computercompany\\creators\\iemployeecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|solutionrelative:computercompany\\creators\\iemployeecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|d:\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\computercompany\\computercompany\\products\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|solutionrelative:computercompany\\products\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|d:\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\computercompany\\computercompany\\products\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|solutionrelative:computercompany\\products\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|d:\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\computercompany\\computercompany\\products\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|solutionrelative:computercompany\\products\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|d:\\\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\computercompany\\computercompany\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7789550B-750F-46F4-BCDD-11750BDB1EC9}|ComputerCompany\\ComputerCompany.csproj|solutionrelative:computercompany\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Products\\Employee.cs",
+              "RelativeDocumentMoniker": "ComputerCompany\\Products\\Employee.cs",
+              "ToolTip": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Products\\Employee.cs",
+              "RelativeToolTip": "ComputerCompany\\Products\\Employee.cs",
+              "ViewState": "AgIAAAkAAABgc2ZmZmYfwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T13:34:21.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Program.cs",
+              "RelativeDocumentMoniker": "ComputerCompany\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Program.cs",
+              "RelativeToolTip": "ComputerCompany\\Program.cs",
+              "ViewState": "AgIAABoAAADAjpmZmZklwCAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T13:33:11.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Engineer.cs",
+              "DocumentMoniker": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Products\\Engineer.cs",
+              "RelativeDocumentMoniker": "ComputerCompany\\Products\\Engineer.cs",
+              "ToolTip": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Products\\Engineer.cs",
+              "RelativeToolTip": "ComputerCompany\\Products\\Engineer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:51:53.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerCreator.cs",
+              "DocumentMoniker": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Creators\\ManagerCreator.cs",
+              "RelativeDocumentMoniker": "ComputerCompany\\Creators\\ManagerCreator.cs",
+              "ToolTip": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Creators\\ManagerCreator.cs",
+              "RelativeToolTip": "ComputerCompany\\Creators\\ManagerCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:45:04.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EngineerCreator.cs",
+              "DocumentMoniker": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Creators\\EngineerCreator.cs",
+              "RelativeDocumentMoniker": "ComputerCompany\\Creators\\EngineerCreator.cs",
+              "ToolTip": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Creators\\EngineerCreator.cs",
+              "RelativeToolTip": "ComputerCompany\\Creators\\EngineerCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:53:15.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeCreator.cs",
+              "DocumentMoniker": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Creators\\IEmployeeCreator.cs",
+              "RelativeDocumentMoniker": "ComputerCompany\\Creators\\IEmployeeCreator.cs",
+              "ToolTip": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Creators\\IEmployeeCreator.cs",
+              "RelativeToolTip": "ComputerCompany\\Creators\\IEmployeeCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:44:26.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeveloperCreator.cs",
+              "DocumentMoniker": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Creators\\DeveloperCreator.cs",
+              "RelativeDocumentMoniker": "ComputerCompany\\Creators\\DeveloperCreator.cs",
+              "ToolTip": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Creators\\DeveloperCreator.cs",
+              "RelativeToolTip": "ComputerCompany\\Creators\\DeveloperCreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:54:38.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Products\\Manager.cs",
+              "RelativeDocumentMoniker": "ComputerCompany\\Products\\Manager.cs",
+              "ToolTip": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Products\\Manager.cs",
+              "RelativeToolTip": "ComputerCompany\\Products\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T13:36:47.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Products\\Developer.cs",
+              "RelativeDocumentMoniker": "ComputerCompany\\Products\\Developer.cs",
+              "ToolTip": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Products\\Developer.cs",
+              "RelativeToolTip": "ComputerCompany\\Products\\Developer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T13:37:17.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "ComputerCompany\\Extensions\\StringExtensions.cs",
+              "ToolTip": "D:\\\u0423\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u044F\\ComputerCompany\\ComputerCompany\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "ComputerCompany\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T17:59:59.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

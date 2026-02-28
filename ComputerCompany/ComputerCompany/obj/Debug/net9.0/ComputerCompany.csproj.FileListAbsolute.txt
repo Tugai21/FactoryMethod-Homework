@@ -1,0 +1,14 @@
+D:\Упражнения\ComputerCompany\ComputerCompany\bin\Debug\net9.0\ComputerCompany.exe
+D:\Упражнения\ComputerCompany\ComputerCompany\bin\Debug\net9.0\ComputerCompany.deps.json
+D:\Упражнения\ComputerCompany\ComputerCompany\bin\Debug\net9.0\ComputerCompany.runtimeconfig.json
+D:\Упражнения\ComputerCompany\ComputerCompany\bin\Debug\net9.0\ComputerCompany.dll
+D:\Упражнения\ComputerCompany\ComputerCompany\bin\Debug\net9.0\ComputerCompany.pdb
+D:\Упражнения\ComputerCompany\ComputerCompany\obj\Debug\net9.0\ComputerCompany.GeneratedMSBuildEditorConfig.editorconfig
+D:\Упражнения\ComputerCompany\ComputerCompany\obj\Debug\net9.0\ComputerCompany.AssemblyInfoInputs.cache
+D:\Упражнения\ComputerCompany\ComputerCompany\obj\Debug\net9.0\ComputerCompany.AssemblyInfo.cs
+D:\Упражнения\ComputerCompany\ComputerCompany\obj\Debug\net9.0\ComputerCompany.csproj.CoreCompileInputs.cache
+D:\Упражнения\ComputerCompany\ComputerCompany\obj\Debug\net9.0\ComputerCompany.dll
+D:\Упражнения\ComputerCompany\ComputerCompany\obj\Debug\net9.0\refint\ComputerCompany.dll
+D:\Упражнения\ComputerCompany\ComputerCompany\obj\Debug\net9.0\ComputerCompany.pdb
+D:\Упражнения\ComputerCompany\ComputerCompany\obj\Debug\net9.0\ComputerCompany.genruntimeconfig.cache
+D:\Упражнения\ComputerCompany\ComputerCompany\obj\Debug\net9.0\ref\ComputerCompany.dll
